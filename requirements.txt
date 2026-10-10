@@ -1,0 +1,13 @@
+streamlit
+numpy
+pandas
+opencv-python-headless
+matplotlib
+pillow
+torch
+torchvision
+ultralytics
+mediapipe
+pyyaml
+paho-mqtt
+reportlab
